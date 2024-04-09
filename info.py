@@ -137,3 +137,10 @@ else:
     else:
         print('Error - URL is not valid, exiting now')
         exit()
+
+#others
+REACTIONS = [
+    "🔥", "❤️", "😍", "⚡", "😇",
+    "🤩", "🎉", "🤗", "🤩", "😎",
+    "🤝", "🤯", "🤓"
+]
